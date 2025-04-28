@@ -1,3 +1,9 @@
-:root{
-  background-color: rgb(61, 58, 58);
+:root {
+  --primary-color: #2E7D32; /* Verde oscuro para tema científico/educativo */
+  --secondary-color: #4CAF50; /* Verde más claro */
+  --accent-color: #8BC34A; /* Verde lima para acentos */
+  --text-color: #333333;
+  --light-bg: #f5f9f5;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --hover-transition: all 0.3s ease;
 }
